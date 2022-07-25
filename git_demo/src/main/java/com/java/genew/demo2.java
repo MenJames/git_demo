@@ -5,6 +5,5 @@ public class demo2 {
         System.out.println("修改了输出内容");
         System.out.println("这是分支添加的内容");
         System.out.println("这是主干添加的内容");
-
     }
 }
