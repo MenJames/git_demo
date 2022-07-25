@@ -2,6 +2,6 @@ package com.java.genew;
 
 public class demo2 {
     public static void main(String[] args) {
-        System.out.println("d1ad15");
+        System.out.println("修改了输出内容");
     }
 }
